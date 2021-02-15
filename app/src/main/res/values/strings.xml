@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Edit Your Info</string>
+    <string name="edit">Редактировать</string>
+    <string name="ok">Подтвердить</string>
+    <string name="phone">Номер телефона</string>
+    <string name="name">Имя</string>
+    <string name="developer">Разработчик Малахов М.А.</string>
+    <string name="text">Добро пожаловать, незнакомец \n
+    У вас не добавлен номер телефона \n</string>
+</resources>
